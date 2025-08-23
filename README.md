@@ -4,7 +4,7 @@
 
 <div style="position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;">
   <h1>Fetique</h1>
-  <p>Ваша вселенная цифровых активов. Объединяем скины, крипту и одежду в единую мультиплатформу.</p>
+  <p>Ваша вселенная цифровых активов.</p>
 </div>
 
 
