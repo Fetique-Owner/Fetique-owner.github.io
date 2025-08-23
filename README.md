@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![fetique](https://github.com/user-attachments/assets/d241498a-001e-4620-a059-5f2dcf304bbf)
-" alt="Fetique Coming Soon" style="max-width: 100%; height: auto;">
+  <img src="![fetique](https://github.com/user-attachments/assets/d241498a-001e-4620-a059-5f2dcf304bbf)" alt="Fetique Coming Soon" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;">
@@ -9,7 +8,7 @@
   <p>Свяжитесь с нами: executive@fetique.com</p>
 </div>
 
-<style>
+
   body {
     background-color: black;
     margin: 0;
@@ -19,4 +18,4 @@
     justify-content: center;
     font-family: 'Arial', sans-serif;
   }
-</style>
+
