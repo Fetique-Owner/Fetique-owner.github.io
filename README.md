@@ -1,1 +1,18 @@
-[www.zip](https://github.com/user-attachments/files/21948930/www.zip)
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Fetique - Ваша вселенная цифровых активов">
+    <title>Fetique | Скоро запуск</title>
+		<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="seo-hidden" aria-hidden="true">
+    <h1>Fetique</h1>
+    <p>Ваша вселенная цифровых активов.</p>
+  </div>
+</body>
+</html>
