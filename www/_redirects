@@ -1,3 +1,0 @@
-http://fetique.com/* https://fetique.com/:splat 301!
-http://www.fetique.com/* https://www.fetique.com/:splat 301!
-/* /index.html 200
