@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -14,30 +13,3 @@
   </div>
 </body>
 </html>
-
-body {
-	background-image: url("fetique.jpg");
-	background-size: contain;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-color: black;
-	margin: 0;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.seo-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    padding: 0;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    border: 0;
-}
-
-![fetique](https://github.com/user-attachments/assets/5d5c8648-306c-44e5-a7b6-157c15d7a02d)
