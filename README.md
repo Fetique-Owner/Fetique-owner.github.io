@@ -9,13 +9,14 @@
 </div>
 
 
-  body {
-    background-color: black;
+  <body style="background-color: black;
     margin: 0;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: 'Arial', sans-serif;
-  }
+    font-family: 'Arial', sans-serif;"> 
+  </body> 
+
+  
 
