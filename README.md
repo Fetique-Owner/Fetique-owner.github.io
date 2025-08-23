@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Fetique - Ваша вселенная цифровых активов">
-    <title>Fetique | Скоро запуск</title>
-		<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <title> Fetique | Скоро запуск </title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
