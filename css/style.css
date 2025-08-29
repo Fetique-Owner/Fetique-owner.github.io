@@ -1,0 +1,116 @@
+body {
+  background-color: black;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  background-image: url("../images/fetique.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+	min-height: 100vh;
+}
+
+.seo-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+footer {
+  border-width: 0%;
+  width: 100%;
+	text-align: center;
+  padding: 30px 0;
+  background-color: #000000b3;
+}
+
+.footer-content {
+  display: flex;
+	flex-direction: column;
+  justify-content: center;
+  align-items: center;
+	gap: 15px;
+  padding: 10px 20px;
+}
+
+.tg-text {
+	font-family: 'Segoe UI', 'Helvetica Neue', 'Roboto', Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  background: linear-gradient(135deg, 
+    #FFF9C4 0%, 
+    #FFD700 50%, 
+    #B8860B 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0px 0px 10px #ffd7004d;
+  animation: shimmer 3s infinite;
+}
+
+.tg_btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: #161616;
+  transition: all 0.3s ease;
+  border: 2px solid #FFD700;
+  text-decoration: none;
+}
+
+.tg_btn:hover {
+  transform: scale(1.1);
+  background-color: #ffd700;
+}
+
+.tg_btn:active {
+  transform: scale(0.9);
+  background-color: #161616;
+}
+
+.tg_btn img {
+  width: 60px;
+  height: 60px;
+  transition: all 0.3s ease;
+}
+
+.tg_btn:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #ffd70080;
+}
+
+@media (max-width: 768px) {
+	.footer-content {
+		gap: 10px;
+	}
+	.tg-text {
+		font-size: 16px;
+	}
+	.tg_btn {
+		width: 50px;
+		height: 50px;
+	}
+	.tg_btn img {
+		width: 30px;
+		height: 30px;
+	}
+}
